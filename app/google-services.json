@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "681525469369",
+    "firebase_url": "https://y2devlabs-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "y2devlabs",
+    "storage_bucket": "y2devlabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681525469369:android:f3444b33ec297ec7793b68",
+        "android_client_info": {
+          "package_name": "com.example.a1stlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681525469369-sekm48cmiasginihcnf69ujeujb9r595.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpWYUKrAGNwNJDgL3Ug_AE9m8bMIZ5YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681525469369-sekm48cmiasginihcnf69ujeujb9r595.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
